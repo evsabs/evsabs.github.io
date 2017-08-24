@@ -25,84 +25,127 @@
 	<meta name="apple-mobile-web-app-status-bar-style" content="#000">
 
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400&amp;subset=cyrillic-ext" rel="stylesheet">
-
 	<style>body { opacity: 0; overflow-x: hidden; } html { background-color: #fff; }</style>
 </head>
 
 <body>
-
-	<div class="side">
-		<div class="in">
-			<img class="img-responsive" src="img/logo.png" alt="">
-			<p>
-				<a class="back" href="">Перейти на главную страницу сайта</a>
-			</p>
+	<div class="side-wrap hidden-xs1">
+		<div class="side">
+			<div class="row in">
+				<img class="to-left" src="img/abslogo.png" alt="">
+				<img class="to-right" src="img/logo_spasenie.png" alt="">
+			</div>
 		</div>
 	</div>
 
-	<div class="gray_round"></div>
-	
-	<header>
+	<div class="hotline hidden-xs">
+		<div class="hotline-text">Бесплатный звонок с любого телефона</div>
+		<div class="hotline-phone">	8 800 500-03-03</div>
+	</div>
+
+	<div class="e1 visible-xs-block">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 npl visible-xs-block">
+					<h2>Проверьте, готов ли Ваш полис ОМС</h2>
+					<div class="moreinfo">
+						<div class="arrow"></div>
+						<span>Подробнее</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="e2">
+		<div class="container">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-6 npl">
+						<div class="side-block">
+							<h2>Услуга доступна только для <br>держателей полисов <br>АК БАРС - Мед и <br>СМО Спасение</h2>
+							<p class="descr">Таким образом сложившаяся структура организации играет важную роль в формировании дальнейших направлений развития. Разнообразный и богатый опыт укрепление и развитие структуры представляет собой интересный эксперимент проверки форм развития. Не следует, однако забывать, что дальнейшее развитие различных форм деятельности требуют от нас анализа системы обучения кадров, соответствует насущным потребностям.</p>
+						</div>
+						<div class="side-block">
+							<img class="responsive-img" src="img/polis1.jpg" alt="">
+							<p class="small">
+								Мы гарантируем правильность информации о готовности Вашего полиса ОМС только в том случае, если Вашей страховой компанией является ООО "СК "АК БАРС-Мед" или ООО СМО "Спасение". Если Вы обращались за получением полиса ОМС в другие страховые компании, рекомендуем Вам уточнять готовность по телефонам этих компаний. Номер телефона обычно указан на временнном свидетельстве.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div>
 		<div class="center">
 			<div class="cell">
 				<div class="container">
 					<div class="row header-main">
-
-						<div class="col-sm-6 col-sm-push-6">
+						<div class="col-sm-6 npl hidden-xs">
 							<div class="side-block">
-								<h1>
-									Проверьте, готов ли Ваш полис ОМС?
+								<img class="responsive-img" src="img/polis1.jpg" alt="">
+								<p class="small">
+									Мы гарантируем правильность информации о готовности Вашего полиса ОМС только в том случае, если Вашей страховой компанией является ООО "СК "АК БАРС-Мед" или ООО СМО "Спасение". Если Вы обращались за получением полиса ОМС в другие страховые компании, рекомендуем Вам уточнять готовность по телефонам этих компаний. Номер телефона обычно указан на временнном свидетельстве.
+								</p>
+							</div>
+						</div>
+
+						<div class="col-sm-6 npr">
+							<div class="side-block">
+								<h1 class="hidden-xs">
+									Проверьте, готов ли <br>Ваш полис ОМС?
 								</h1>
-								<p class="brown subtitle">
-									Услуга доступна только для держателей полисов АК БАРС - Мед и СМО Спасение
+								<p class="brown subtitle hidden-xs">
+									Услуга доступна только для держателей <br>полисов АК БАРС - Мед и СМО Спасение
 								</p>
 								<form class="check-oms" id="check-oms">
-									<p>
+									<p class="hidden-xs">
 										Введите номер временного свидетельства
 									</p>
 									<div class="group">
-										<label class="brown_label" for="">
-											<input type="text" class="oms" required>
+										<label class="colored_label" for="">
+											<input type="text" class="oms" name="polis" value="" placeholder="Введите номер свидетельства" required>
 										</label>
 										<button class="orange btn">Проверить</button>
 									</div>
 								</form>
 							</div>
 						</div>
-
-						<div class="col-sm-6 col-sm-pull-6">
-							<div class="side-block">
-								<img class="responsive-img" src="img/polis.jpg" alt="">
-								<p class="small">
-									Мы гарантируем правильность информации о готовности Вашего полиса ОМС только в том случае, если Вашей страховой компанией является ООО "СК "АК БАРС-Мед" или ООО СМО "Спасение". Если Вы обращались за получением полиса ОМС в другие страховые компании, рекомендуем Вам уточнять готовность по телефонам этих компаний. Номер телефона обычно указан на временнном свидетельстве.
-								</p>
-							</div>
-						</div>
-						
 					</div>
+
+					<div class="row hint hidden-xs">
+						<div class="col-md-12">
+							<h2 class="hint__h">Объяснения</h2>
+							<p class="hint__t">Таким образом сложившаяся структура организации играет важную роль в формировании дальнейших направлений развития. Разнообразный и богатый опыт укрепление и развитие структуры представляет собой интересный эксперимент проверки форм развития. Не следует, однако забывать, что дальнейшее развитие различных форм деятельности требуют от нас анализа системы обучения кадров, соответствует насущным потребностям.</p>
+						</div>
+					</div>
+
 				</div>
+
 			</div>
 		</div>
 	</header>
 
 	<div class="content" id="content">
-
 		<section>
 			<div class="container">
 				<div class="row">
-					<div class="col-sm-6">
-						<h3>
-							Спасибо за проверку.<br>
-							Мы рады, что Вы воспользовались нашим сервисом и поэтому дарим Вам скидку!
-						</h3>
+					<div class="col-sm-6 col-sm-offset-3">
 						<div class="result">
 							<h3 class="title">Ваш результат проверки</h3>
-							<p>Запрос успешно выполнен<br>
-							Временное свидетельство с номером 923846929348 не выдавалось</p>
+							<p id="res"></p>
 							<p>Спасибо за использование нашего сервиса!</p>
 						</div>
+
+						<h3 class="text-center tnx">
+							Спасибо за проверку.<br>
+							Мы рады, что Вы воспользовались нашим сервисом и поэтому дарим Вам подарок!
+						</h3>
+
 					</div>
-					<div class="col-sm-6">
+					<div class="col-sm-6 col-sm-offset-3">
 						<div class="telemedicine">
 							<div class="image">
 								<img src="img/banner.jpg" alt="">
@@ -111,8 +154,7 @@
 								<div class="title">
 									Специально для вас:
 								</div>
-								<p>
-									Врачебные консультации (терапевт и педиатр) через интернет на 2 недели за 1 рубль
+								<p>Бесплатная пробная консультация (терапевта или педиатра) через интернет
 								</p>
 								<div class="buttons">
 									<a class="btn red" href="">Подробнее</a>
@@ -145,7 +187,7 @@
 		</section>
 
 	</div>
-	
+
 	<link rel="stylesheet" href="css/main.min.css">
 	<script src="js/scripts.min.js"></script>
 

@@ -1,0 +1,676 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+	<title>Проверь готовность полиса</title>
+	<link rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/salvation/favicon.ico" />
+
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/salvation/common.css" />
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta name="robots" content="index, follow">
+<meta name="description" content="«Спасение» - страховая медицинская компания Казань, Уфа, Ижевск, Пермь">
+<link href="/bitrix/cache/css/s1/salvation/template_36d96686f3d64b41e0b3e868d5f69728/template_36d96686f3d64b41e0b3e868d5f69728.css?1491911384124460" type="text/css"  data-template-style="true"  rel="stylesheet">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/salvation/template_974194e23e1e6fcd96301db9b8e01d25/template_974194e23e1e6fcd96301db9b8e01d25.js?1491911384108096"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "4966f45ed13ce0399c95dfd286300b9c"]); _ba.push(["host", "www.spasenie-med.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/salvation/favicon.ico" />
+
+					
+							
+	<link rel="stylesheet" type="text/css" href="/bitrix/templates/salvation/colors.css" />
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '8cemR5t8Tp';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+</head>
+<body>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33320118 = new Ya.Metrika({
+                    id:33320118,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33320118" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<div>
+	<a id="y-video" target="_blank" href="#video" style="display: none;"><img src="/mod/banner-big-2.jpg" alt="" style="display: none;"></a>
+	<div style="display: none;">
+		<object id="video" width="600" height="400">
+			<param name="movie" value="http://www.youtube.com/v/V-KKRwplf-4?version=3&amp;hl=ru_RU"></param>
+			<param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
+			<embed src="http://www.youtube.com/v/V-KKRwplf-4?version=3&amp;hl=ru_RU" type="application/x-shockwave-flash" width="600" height="400" allowscriptaccess="always" allowfullscreen="true"></embed>
+		</object>
+	</div>
+</div>
+<div>
+	<a id="y-video2" target="_blank" href="#video2" style="display: none;"><img src="/mod/baner-zpz.jpg" alt="" style="display: none;"></a>
+
+	<div style="display: none;">
+		<object id="video2" width="600" height="400">
+			<param name="movie" value="http://www.youtube.com/v/1fd5bpNa2AM?hl=ru_RU&amp;version=3&amp;rel=0"></param>
+			<param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
+			<embed src="http://www.youtube.com/v/1fd5bpNa2AM?hl=ru_RU&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="600" height="400" allowscriptaccess="always" allowfullscreen="true"></embed>
+		</object>
+	</div>
+</div>
+<!-- image -->
+<div class="popUpForm bigImg" style="display: none;">
+	<form style="width: 80%; max-width: 720px;">
+		<div class="">
+			<span class="popUpFormClose"></span>
+			<div class="img-wrapper"></div>
+			<div class="arr left-arr"></div>
+			<div class="arr right-arr"></div>
+		</div>
+	</form>
+</div>
+<!-- /image -->
+<!-- recall -->
+<div class="popUpForm feedback" style="display: none;">
+	<form>
+		<div class="">
+
+			<span class="popUpFormClose"></span>
+			<h6>Мы будем благодарны,<br>
+				если Вы оставите отзыв о нашей компаниии<br>
+				<small class="m-show">(Воспользуйтесь формой ниже)</small></h6>
+
+			<div class="m-show">
+				<input id="Name" type="text" placeholder="Введите Ваше имя*">
+			</div>
+
+			<div class="m-show">
+				<input id="Email" type="text" placeholder="Введите Ваше E-Mail*">
+			</div>
+
+			<div class="m-show">
+				<textarea id="Com" rows="5" placeholder="Текст сообщения"></textarea>
+			</div>
+			<p class="popUpFormResult" style="display: none;">
+				Ваше сообщение отправлено!
+			</p>
+			<button type="submit" id="vopros">Отправить отзыв</button>
+
+
+		</div>
+
+	</form>
+</div>
+<!-- /recall -->
+<!-- recall -->
+<div class="popUpForm question" style="display: none;">
+	<form>
+		<div class="">
+
+			<span class="popUpFormClose"></span>
+			<h6>Задайте нам вопрос и мы на него ответим<br>
+				<small class="m-show">(Воспользуйтесь формой ниже)</small></h6>
+
+			<div class="m-show">
+				<input id="Name-1" type="text" placeholder="Введите Ваше имя*">
+			</div>
+
+			<div class="m-show">
+				<input id="Email-1" type="text" placeholder="Введите Ваш E-Mail*">
+			</div>
+
+			<div class="m-show">
+				<input id="Tel-1" type="text" placeholder="Введите Ваш телефон*">
+			</div>
+
+			<div class="m-show">
+				<input id="Region-1" type="text" placeholder="Укажите регион*">
+			</div>
+
+			<div class="m-show">
+				<textarea id="Com-1" rows="5" placeholder="Текст сообщения"></textarea>
+			</div>
+			<p class="popUpFormResult-1" style="display: none;">
+				Ваше сообщение отправлено!
+			</p>
+			<button type="submit" id="vopros-1">Отправить вопрос</button>
+
+
+		</div>
+
+	</form>
+</div>
+<!-- /recall -->
+<!-- recall -->
+<!--<div class="popUpForm sign" style="display: none;">
+	<form>
+		<div>
+			<span class="popUpFormClose"></span>
+
+			<h6>Запишитесь на консультацию о том,<br>
+				как стать нашим клиентом<br>
+				<small class="m-show">(Воспользуйтесь формой ниже)</small></h6>
+
+			<div class="m-show">
+				<input type="text" placeholder="Введите Ваше имя*" id="sName">
+			</div>
+
+			<div class="m-show">
+				<input type="text" placeholder="Введите Ваш телефон*" id="sTel">
+			</div>
+			<p class="popUpFormResult" style="display: none;">
+				Ваше сообщение отправлено!
+			</p>
+			<button type="submit" id="sendSign">Отправить</button>
+		</div>
+	</form>
+</div>-->
+<!-- /recall -->
+
+<div id="page-wrapper" class="wrapper">
+
+	<div id="panel"></div>
+
+	
+<div class="navBlock">
+    <ul class="nav">
+                        <li class=""><b class="r1"></b><b class="r0"></b><a href="http://спасение.рф">Поликлиника</a><b class="r0"></b><b class="r1"></b></li>
+        
+                        <li class=""><b class="r1"></b><b class="r0"></b><a href="http://xn--80akalyjnc.xn--p1ai/pediatriya/">Педиатрия</a><b class="r0"></b><b class="r1"></b></li>
+        
+                        <li class=""><b class="r1"></b><b class="r0"></b><a href="http://ункп.рф">Стационар</a><b class="r0"></b><b class="r1"></b></li>
+        
+                        <li class=""><b class="r1"></b><b class="r0"></b><a href="http://корабельная-роща.рф">Реабилитация</a><b class="r0"></b><b class="r1"></b></li>
+        
+                        <li class=""><b class="r1"></b><b class="r0"></b><a href="http://корабельная-роща.рф">Санаторий</a><b class="r0"></b><b class="r1"></b></li>
+        
+        </ul>
+</div>
+
+	<!-- header -->
+	<header>
+		<a href="/" title="Страховое медицинское общество &quot;Спасение&quot;" class="logo"></a>
+
+		<div class="regionSelection">
+			<span class="select-reg-btn">Регион</span>
+			<span class="selected-reg">
+				Татарстан			</span>
+			<div class="select-reg">
+				<span>Татарстан</span>
+				<span>Удмуртия</span>
+				<span>Башкортостан</span>
+			</div>
+		</div>
+
+		<div class="tagline">
+			<span>16 лет опыта</span>
+			<!--<span>Мы - лидеры в трех республиках:<br>Татарстан, Удмуртия, Башкортостан</span>-->
+			<span>слышать каждого <br>действовать эффективно</span>
+		</div>
+
+		<div class="login">
+			<a target="_blank" href="http://spasenie-med.ru/lk_spasenie/?lkcont=strah">Личный кабинет</a>
+			<!--<a href=""></a>-->
+			<h4 class="headerTel">
+<!--				-->				8 800 1000 717 
+			</h4>
+			<div>
+				<span>звонок по России бесплатный</span>
+				<span ><small style="letter-spacing: 5.6px;">круглосуточно</small></span>
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div id="search">
+			<div class="flat">
+    <form action="/search/index.php">
+        <div class="search-box"><input type="text" name="q" placeholder=" "></div>
+        <div id="search-button">
+            <input type="submit" name="s" id="search-submit-button" value="Поиск"
+                   onfocus="this.blur();">
+        </div>
+
+    </form>
+</div>		</div>
+	</header>
+	<!-- /header -->
+
+	<!-- content -->
+	<ul class="content">
+		<!-- contentLeftColumn -->
+		<li>
+			<div id="left-menu">
+						<ul class="leftNav">
+												<li ><a  href="/about"><span><img src="/bitrix/templates/salvation/images/nav/aboutUs.svg" border="0" /></span><span>О компании</span></a>				
+												<li ><a  href="/protection/zpz.php"><span><img src="/bitrix/templates/salvation/images/nav/protectionOfRights.svg" border="0" /></span><span>Защита прав застрахованных</span></a>				
+												<li class="selected"><a  href="/oms"><span><img src="/bitrix/templates/salvation/images/nav/oms.svg" border="0" /></span><span>ОМС</span></a>				
+												<li ><a  href="/dms"><span><img src="/bitrix/templates/salvation/images/nav/dms.svg" border="0" /></span><span>ДМС</span></a>				
+												<li ><a  href="/news"><span><img src="/bitrix/templates/salvation/images/nav/news.svg" border="0" /></span><span>Новости</span></a>				
+												<li ><a  href="/docs/regulations.php"><span><img src="/bitrix/templates/salvation/images/nav/docs.svg" border="0" /></span><span>Нормативные документы</span></a>				
+												<li ><a  href="/vacancies"><span><img src="/bitrix/templates/salvation/images/nav/vacancies.svg" border="0" /></span><span>Вакансии</span></a>				
+												<li ><a  href="/contacts"><span><img src="/bitrix/templates/salvation/images/nav/contacts.svg" border="0" /></span><span>Контакты</span></a>				
+												<li ><a  href="/questions_and_answers"><span><img src="/bitrix/templates/salvation/images/nav/anonymous.svg" border="0" /></span><span>Вопрос-ответ</span></a>				
+					</ul>
+			</div>
+
+			<a href="/about/feedback.php" class="giveReviews">Оставить отзыв</a>
+		</li>
+		<!-- /contentLeftColumn -->
+
+		<!-- contentRightColumn -->
+		<li>
+
+    <ul class="contentRightNav">
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/oms/how-get-polis.php">Как получить полис</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/oms/where-get-polis.php">Где получить полис</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/oms/where_lech.php">Где пройти лечение</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/oms/strah_org.php">Страховые организации</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/docs/regulations.php">Нормативная база</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class="active">
+                    <b class="r1"></b><b class="r0"></b><a
+                        href="/oms/look_out.php">Проверить полис</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+                                    <li class=""><b class="r1"></b><b class="r0"></b><a
+                        href="/oms/order.php">Заказ ОМС полиса</a><b class="r0"></b><b class="r1"></b>
+                </li>
+            
+            </ul>
+			<div class="">
+<h1>Проверь готовность полиса</h1><span style="float: right;">2015-09-29 13:09:47</span><div class="clear"></div>
+<h1 id="descH1">Ваш результат проверки</h1>
+				  <div class="desc apply">
+				  <div class="line"></div>
+
+				  <div class="message">
+					<div class="descBlock">
+					  <div class="descImg aImg"></div>
+					 Запрос успешно выполнен<!--У вас полис нового образца!--> </div>
+
+					<p><b>Временное свидетельство с номером 157607238 не выдавалось</b><!--А здесь уже дополнительные данные, которые даются вместе с ответом, он будет выглядеть примерно так--></p>
+					
+				   </div>
+
+				  <div class="line"></div>
+
+				  <div class="descBtn">
+					<p>Спасибо за пользованием нашим сервисом!</p>
+				   <a id="bxid_24305" href="/oms/look_out.php" ><input class="submitPolis" type="submit" value="Вернуться назад" /></a> </div>
+
+				  <div class="line"></div>
+				 </div></div>
+<!-- /contentBlock -->
+</li>
+<!-- /contentRightColumn -->
+</ul>
+<!-- /content -->
+
+<!-- banner -->
+<a href="#" class="banner openRecordOnConsultation">
+    <img src="/bitrix/templates/salvation/images/allowed/banner/0001.jpg"  /></a>
+<!-- /banner -->
+<!-- newsBlock -->
+
+
+
+
+
+
+
+<ul class="newsBlock">
+	<li>
+		<h3>Новости</h3>
+		<a href="/news">Другие новости...</a>
+	</li>
+
+	<div class="b-flex news-bottom" style="font-size: 14px; margin-top: 20px;">
+								<div class="news-item" id="bx_3218110189_465">
+				<div class="news-item-box">
+																<img src="/upload/resize_cache/iblock/5e1/168_122_275511db9cefbc414a902a46f1b8fae16/5e1290e739191c6659abda6c99d7e7a9.jpg" alt="">
+										<span class="news-date-time">02.08.2017</span>
+				</div>
+				<a href="/news/465/" class="news-item__link">СЦ «Дербышки» не работает по техническим причинам.(Республика Татарстан)</a><br />
+			</div>
+								<div class="news-item" id="bx_3218110189_463">
+				<div class="news-item-box">
+																<img src="/upload/resize_cache/iblock/67f/168_122_275511db9cefbc414a902a46f1b8fae16/67f41289bff9cb53811c577d99a890c5.jpg" alt="">
+										<span class="news-date-time">24.07.2017</span>
+				</div>
+				<a href="/news/463/" class="news-item__link">Изменен режим работы страхового центра &quot;Кировский&quot; и страхового центра &quot;Чулман&quot; (Республика Татарстан)</a><br />
+			</div>
+								<div class="news-item" id="bx_3218110189_462">
+				<div class="news-item-box">
+																<img src="/upload/resize_cache/iblock/164/168_122_275511db9cefbc414a902a46f1b8fae16/164931e6b03b637dff500df6a7d6c5ed.jpg" alt="">
+										<span class="news-date-time">20.07.2017</span>
+				</div>
+				<a href="/news/462/" class="news-item__link">Изменился режим работы СЦ «Чулман»</a><br />
+			</div>
+								<div class="news-item" id="bx_3218110189_461">
+				<div class="news-item-box">
+																<img src="/upload/resize_cache/iblock/375/168_122_275511db9cefbc414a902a46f1b8fae16/37550d6bde4481e4a5bca4dd7ffb0aec.jpg" alt="">
+										<span class="news-date-time">18.07.2017</span>
+				</div>
+				<a href="/news/461/" class="news-item__link">19.07.2017 г. изменен режим работы СЦ «Чулман» по техническим причинам (Республика Татарстан)</a><br />
+			</div>
+			</div>
+</ul>
+<!-- /newsBlock -->
+
+<!-- footer -->
+<footer>
+    <!-- footerBlock -->
+    <ul class="footerBlock">
+        <li class="footerPartners">
+                <a href="http://www.ffoms.ru"
+       style="width:59px;background-image:url('/upload/iblock/2af/2afa6f6a7c44523242175f0f77e0edb5.jpg')"></a>
+        <a href="http://www.rosminzdrav.ru"
+       style="width:57px;background-image:url('/upload/iblock/57f/57f8c484ce6163781b768a5544d6208b.jpg')"></a>
+        <a href="http://www.fomsrt.ru"
+       style="width:57px;background-image:url('/upload/iblock/f3c/f3c79cb3ab26958a6446b7bb2e5e52d4.jpg')"></a>
+        <a href="http://www.roszdravnadzor.ru"
+       style="width:56px;background-image:url('/upload/iblock/69d/69d49df7f53218971bd8adc0c407d6ba.jpg')"></a>
+        <a href="http://спасение.рф"
+       style="width:149px;background-image:url('/upload/iblock/714/7144f657aff77af8026a6a3d96feef03.jpg')"></a>
+        <a href="http://minzdrav.tatarstan.ru"
+       style="width:64px;background-image:url('/upload/iblock/f0e/f0e8101b607c274fa365ec25b22d9b28.jpg')"></a>
+        <a href=" http://www.utfoms.udmnet.ru/"
+       style="width:57px;background-image:url('/upload/iblock/14c/14c3bc568b55bf5d2f783bf1f07222ec.jpg')"></a>
+        <a href="http://www.tfoms-rb.ru/"
+       style="width:57px;background-image:url('/upload/iblock/4c3/4c3bcc47a463268a7d7c03d347c4d397.jpg')"></a>
+            </li>
+
+        <li>
+            <!-- footerLinks -->
+            
+            
+<ul id="footer-links" class="footerLinks">
+	<li>
+		<div class="footerLinksList">
+								<a target="" href="/oms">О деятельности в сфере ОМС</a>
+										<a target="" href="/about/participants.php">Состав участников</a>
+										<a target="" href="/about/financial-results.php">Финансовый результат деятельности</a>
+										<a target="" href="/about/opit_rab.php">Опыт работы</a>
+										<a target="" href="/upload/medialibrary/kol-vo.doc">Численность застрахованных лиц</a>
+										<a target="" href="/oms/where_lech.php">Реестр медицинских организаций</a>
+										<a target="" href="/oms/strah_org.php">Реестр страховых организаций</a>
+										<a target="" href="/oms/how-get-polis.php">Порядок получения полиса</a>
+										<a target="" href="/upload/smo/PolitikPDN.pdf">Политика Общества с ограниченной ответственностью «Страховое медицинское общество «Спасение» в отношении обработки персональных данных</a>
+										</div>
+	</li>
+	<li>
+		<div class="footerLinksList">
+										<a target="" href="/upload/futer/Виды, качество условия по РТ2017.docx">О предоставлении мед. помощи (о видах, качестве и об условиях предоставления мед. помощи)</a>
+										<a target="" href="/upload/oms/tatoms/ovibore.doc">Заявление о выборе (замене) СМО</a>
+										<a target="" href="/upload/oms/tatoms/dublikat.doc">Заявление о выдаче дубликата или переоформлении полиса</a>
+										<a target="" href="/oms/where-get-polis.php">Пункты выдачи полисов</a>
+										<a target="" href="/upload/oms/tatoms/14_ Бланк Жалобы застрахованного с 02.02.2017 (1).docx">Скачать бланк "Жалоба застрахованного по ОМС"</a>
+										</div>
+	</li>
+	<li>
+		<div class="footerLinksList">
+										<a target="" href="/upload/zpz/зпз за  1 полугодие 2016г РТ. жалобы.docx">Выявленные нарушения</a>
+										<a target="" href="/protection/med_kon_ser.php">Справочная служба страховой медицинской организации</a>
+										<a target="" href="/upload/oms/tatoms/straxovanie.doc">Перечень документов необходимых для получения полиса ОМС</a>
+										<a target="" href="/upload/futer/poryadokrt.doc">Порядок обжалования решений, действий или бездействия работников при выдаче полисов</a>
+										<a target="" href="/upload/medialibrary/e8b/dov.doc">Образец доверенности для подачи заявления через представителя</a>
+										</div>
+	</li>
+	<li>
+		<div class="footerLinksList">
+										<a target="" href="/upload/futer/Права_и_обязанности_застрахованных по РТ2016.docx">Права и обязанности застрахованных</a>
+										<a target="" href="/upload/futer/Телефоны_и_адреса.docx">Номера телефонов и адреса электронной почты подразделений по организации защиты прав застрахованных лиц страховых медицинских организаций</a>
+										<a target="_blank" href="/upload/futer/РТ_ОМС_ЗПЗ.pdf">Памятка застрахованному по ОМС</a>
+										<a target="" href="/upload/tfoms.xls">Справочник территориальных ФОМС</a>
+										<a target="" href="/upload/futer/Информация для военнослужащих и приравненных к ним в оказании медицинской помощи лицам.doc">Информация для военнослужащих и приравненных к ним в оказании медицинской помощи лицам</a>
+										<a target="" href="/upload/polis.docx">Срок действия полиса</a>
+							</div>
+	</li>
+</ul>
+            <!-- /footerLinks -->
+
+            <!-- copyBlock -->
+            <ul class="copyBlock">
+                <li>г. Казань: +7 (843) 570-07-17
+                    <!-- social -->
+								<span class="social">
+									<a href="http://vk.com/spaseniemed"><img src="/bitrix/templates/salvation/images/allowed/social/vk.jpg" alt=""></a>
+									<a href="https://twitter.com/spasenie_web"><img src="/bitrix/templates/salvation/images/allowed/social/twitter.jpg" alt=""></a>
+									<a href="https://instagram.com/spaseniemed/"><img src="/bitrix/templates/salvation/images/allowed/social/Instagram.jpg" alt=""></a>
+								</span>
+                    <!-- /social -->
+                </li>
+
+                <li>© 2012 ООО «СМО «Спасение». Все права защищены.</li>
+
+                <li><a href="http://studio-88.ru/" title="Реклама / сайты / маркетинг" target="_blank">сайт разработан STUDIO-88</a></li>
+            </ul>
+            <!-- /copyBlock -->
+        </li>
+    </ul>
+    <!-- footerBlock -->
+</footer>
+<!-- footer -->
+</div>
+<!-- /wrapper -->
+
+<!-- premium -->
+<a href="http://spasenie-med.ru/oms/how-get-polis.php" class="premium">
+	<span></span> 
+	<span>Получить<br/> полис ОМС</span>
+</a>
+<!-- /premium -->
+
+<div style="display: none;">
+    <div id="map-bash" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <div id="ymaps-map-id_135893103073576943060" style="width: 800px; height: 585px;"></div>
+
+        <div style="width: 800px; text-align: right;"><a href="http://api.yandex.ru/maps/tools/constructor/index.xml" target="_blank" style="color: #1A3DC1; font: 13px Arial, Helvetica, sans-serif;" >Создано с помощью инструментов Яндекс.Карт</a></div>
+
+        <script type="text/javascript">function fid_135893103073576943060(ymaps) {var map = new ymaps.Map("ymaps-map-id_135893103073576943060", {center: [55.954711499999995, 54.73317504612304], zoom: 16, type: "yandex#map"});map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));map.geoObjects.add(new ymaps.Placemark([55.95400339681868, 54.732591434070834], {balloonContent: 'ООО СМО "Спасение"'}, {preset: "twirl#lightblueDotIcon"}));};</script>
+
+        <script type="text/javascript" src="http://api-maps.yandex.ru/2.0-stable/?lang=ru-RU&coordorder=longlat&load=package.full&wizard=constructor&onload=fid_135893103073576943060"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="co-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <div id="ymaps-map-id_134451339826279505391" style="width: 800px; height: 585px;"></div>
+
+        <div style="width: 800px; text-align: right;"><a href="http://n.maps.yandex.ru/" target="_blank"
+                                                         style="color: #1A3DC1; font: 13px Arial,Helvetica,sans-serif;">Создано
+                с помощью сервиса Яндекса Народная карта.</a></div>
+
+        <script type="text/javascript">function fid_134451339826279505391(ymaps) {
+                var map = new ymaps.Map("ymaps-map-id_134451339826279505391", {
+                    center: [49.133421163596424, 55.76969643699541],
+                    zoom: 17,
+                    type: "yandex#publicMap"
+                });
+                map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));
+                map.geoObjects.add(new ymaps.Placemark([49.13294909480875, 55.76965137835298], {balloonContent: "Центральный офис"}, {preset: "twirl#lightblueDotIcon"}));
+            }
+            ;</script>
+
+        <script type="text/javascript"
+                src="http://api-maps.yandex.ru/2.0/?coordorder=longlat&load=package.full&wizard=constructor&lang=ru-RU&onload=fid_134451339826279505391"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-kamsk-2-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <script type="text/javascript" charset="utf-8"
+                src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=uAvuYY4APnU9r7_TFLCxa5-d3sCicJP5&width=800&height=585"></script>
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="fryn-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=Iz6UZWHsKEysYXEpgJVWsdTwI4YQeHmh&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="gorki" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=O4usAyKr6EKg390eXu8mTRl2lMTXZq3-&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="azino" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=-M7OQs0cUHdNgjvmJzJaVzqL1IAokNtQ&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="derb-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=Q5x_lVEQOin5B8nAuBD3sNhdxHLWTjPf&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="azino" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=-M7OQs0cUHdNgjvmJzJaVzqL1IAokNtQ&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-sav-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=t4A03srcnqgfivhL3yRyYSrvtWhvZ64T&width=800&height=600"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-chelni-large2" style="width: 600px; height: 450px; overflow: hidden;">
+        <script type="text/javascript" charset="utf-8"
+                src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=7OvGdxm2WF-kkzcuaxg3DjVO0TMP4Lik&width=600&height=450"></script>
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-chelni-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <div id="ymaps-map-id_1344591966907321011984" style="width: 800px; height: 585px;"></div>
+
+        <div style="width: 800px; text-align: right;"><a href="http://n.maps.yandex.ru/" target="_blank" style="color: #1A3DC1; font: 13px Arial,Helvetica,sans-serif;" >Создано с помощью сервиса Яндекса Народная карта.</a></div>
+
+        <script type="text/javascript">function fid_1344591966907321011984(ymaps) {var map = new ymaps.Map("ymaps-map-id_1344591966907321011984", {center: [52.41340940235947, 55.745990262533745], zoom: 16, type: "yandex#publicMap"});map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));map.geoObjects.add(new ymaps.Placemark([49.31319086551511, 55.918749044706715], {balloonContent: "Высокогорский"}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([51.928958718372726, 55.61573044931119], {balloonContent: "представительство в Нижнекамске"}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([51.93297130305897, 55.61517181844147], {balloonContent: ""}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([52.41456811665368, 55.745924298441416], {balloonContent: "Филиал в Набережных Челнах"}, {preset: "twirl#lightblueDotIcon"}));};</script>
+
+        <script type="text/javascript" src="http://api-maps.yandex.ru/2.0/?coordorder=longlat&load=package.full&wizard=constructor&lang=ru-RU&onload=fid_1344591966907321011984"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-kamsk-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <div id="ymaps-map-id_1344591966907321015256" style="width: 800px; height: 585px;"></div>
+
+        <div style="width: 800px; text-align: right;"><a href="http://n.maps.yandex.ru/" target="_blank" style="color: #1A3DC1; font: 13px Arial,Helvetica,sans-serif;" >Создано с помощью сервиса Яндекса Народная карта.</a></div>
+
+        <script type="text/javascript">function fid_1344591966907321015256(ymaps) {var map = new ymaps.Map("ymaps-map-id_1344591966907321015256", {center: [51.92812749310859, 55.61549531984951], zoom: 16, type: "yandex#publicMap"});map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));map.geoObjects.add(new ymaps.Placemark([49.31319086551511, 55.918749044706715], {balloonContent: "Высокогорский"}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([51.928958718372726, 55.61573044931119], {balloonContent: "представительство в Нижнекамске"}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([52.41456811665368, 55.745924298441416], {balloonContent: "Филиал в Набережных Челнах"}, {preset: "twirl#lightblueDotIcon"})).add(new ymaps.Placemark([51.973286233398404, 55.60635008479547], {balloonContent: ""}, {preset: "twirl#lightblueDotIcon"}));};</script>
+
+        <script type="text/javascript" src="http://api-maps.yandex.ru/2.0/?coordorder=longlat&load=package.full&wizard=constructor&lang=ru-RU&onload=fid_1344591966907321015256"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="n-kamsk-3-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <script type="text/javascript" charset="utf-8"
+                src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=GfrcDiLYjZWtNcfW0qeBpe1CWqNGn4X1&width=800&height=585"></script>
+    </div>
+</div>
+
+<div style="display: none;">
+    <div id="v-gora-large" style="width: 800px; height: 600px; overflow: hidden;">
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (начало) -->
+
+        <div id="ymaps-map-id_134459196690732104940" style="width: 800px; height: 585px;"></div>
+
+        <div style="width: 800px; text-align: right;"><a href="http://n.maps.yandex.ru/" target="_blank" style="color: #1A3DC1; font: 13px Arial,Helvetica,sans-serif;" >Создано с помощью сервиса Яндекса Народная карта.</a></div>
+
+        <script type="text/javascript">function fid_134459196690732104940(ymaps) {var map = new ymaps.Map("ymaps-map-id_134459196690732104940", {center: [49.31168882846676, 55.91866630336895], zoom: 15, type: "yandex#publicMap"});map.controls.add("zoomControl").add("mapTools").add(new ymaps.control.TypeSelector(["yandex#map", "yandex#satellite", "yandex#hybrid", "yandex#publicMap"]));map.geoObjects.add(new ymaps.Placemark([49.31319086551511, 55.918749044706715], {balloonContent: "Высокогорский"}, {preset: "twirl#lightblueDotIcon"}));};</script>
+
+        <script type="text/javascript" src="http://api-maps.yandex.ru/2.0/?coordorder=longlat&load=package.full&wizard=constructor&lang=ru-RU&onload=fid_134459196690732104940"></script>
+
+        <!-- Этот блок кода нужно вставить в ту часть страницы, где вы хотите разместить карту (конец) -->
+    </div>
+</div>
+
+
+</body>
+</html>

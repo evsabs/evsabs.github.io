@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="urn:WashOut">
+  <soap:Body>
+    <tns:check_vs_response>
+      <value xsi:type="xsd:string">Ваш полис ОМС готов. Обратитесь в пункт выдачи полисов ОМС по адресу Агрыз, ул. Карла Маркса, д. 9.</value>
+    </tns:check_vs_response>
+  </soap:Body>
+</soap:Envelope>
