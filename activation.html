@@ -62,23 +62,52 @@
 		</div>
 	</div>
 	
-	<header class="header_main header_768 header_image" style="background-image: url(img/headers/zapis-oms.jpg);">
+	<header class="header_main header_768 header_image header_okdoctor" style="background-image: url(img/headers/activation.jpg);">
 		<div class="black_filter"></div>
 
-			
-
-			<div class="header_content header_content_zapis_oms">
+			<div class="header_content header_content_activation">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
 							<h1>
-								Запись на получение полиса<br>
-								или временного свидетельства
-
+								Активировать
 							</h1>
-							<p class="header_content_text">
-								<a class="white_link" href="">Перечень документов, необходимых для получения полиса</a>
-							</p>
+						</div>
+					</div>
+					<div class="activation_menu">
+						<div class="row">
+							<div class="col-xs-6 col-sm-6 col-md-3">
+								<a class="activation_menu_item anchor_btn" data-anchor="#polis1">
+									<div class="icon">
+										<i class="fa fa-thumb-tack" aria-hidden="true"></i>
+									</div>
+									<div class="text">Всё на месте</div>
+								</a>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-3">
+								<a class="activation_menu_item anchor_btn" data-anchor="#polis2">
+									<div class="icon">
+										<i class="fa fa-home" aria-hidden="true"></i>
+									</div>
+									<div class="text">Всё на месте: Дом</div>
+								</a>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-3">
+								<a class="activation_menu_item anchor_btn" data-anchor="#polis3">
+									<div class="icon">
+										<i class="fa fa-thumbs-up" aria-hidden="true"></i>
+									</div>
+									<div class="text">Всё в порядке</div>
+								</a>
+							</div>
+							<div class="col-xs-6 col-sm-6 col-md-3">
+								<a class="activation_menu_item anchor_btn" data-anchor="#polis4">
+									<div class="icon">
+										<i class="fa fa-user-md" aria-hidden="true"></i>
+									</div>
+									<div class="text">ОкДоктор</div>
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -112,226 +141,108 @@
 	</section>
 	<!-- Main Menu End -->
 
+	<!-- Внутри id=content плавает меню помощи -->
 	<div id="content" class="site_content">
 		<div class="container">
-			
+
 			<div class="row">
 				<div class="col-md-10">
 
-					<div class="students_form_block zapis_oms">
-						<div class="row title_block">
-							<div class="col-md-7">
-								<h2>Оформить полис</h2>
-								<div class="calculate_result">
-									страховая сумма: от 40 000 до 100 000 (USD/EUR) 
+					<div class="activation_section">
+						<h2 class="activation_title">Страховые полисы</h2>
+
+						<div class="polis_list">
+							<div class="polis_object" id="polis4">
+								<div class="row">
+									<div class="col-sm-5">
+										<img class="polis_img" src="img/polis/okdoctor.png" alt="">
+									</div>
+									<div class="col-sm-7">
+										<div class="title">Страховой полис “ОкДоктор”</div>
+										<div class="description">
+											Возместит ущерб в случае пожара, взрыва, стихийного бедствия; кражи, грабежа, разбоя и других противоправных действий.<br>
+											Поможет в случае любых физических травм.
+										</div>
+										<button class="button button_green">АКТИВИРОВАТЬ</button>
+
+										<form class="progress_form active">
+											<div class="group medium">
+												<label class="label_block">
+													<div class="label_content">
+														<div class="label_text">
+															<span>Номер карты</span>
+														</div>
+														<div class="input_block">
+															<input class="white_input" type="text" placeholder="123456">
+														</div>
+													</div>
+												</label>
+												<label class="label_block">
+													<div class="label_content">
+														<div class="label_text">
+															<span>Пин код</span>
+														</div>
+														<div class="input_block">
+															<input class="white_input" type="text" placeholder="1234">
+															<div class="notice">Четыре цифры с обратной стороны карты</div>
+														</div>
+													</div>
+												</label>
+											</div>
+										</form>
+									</div>
+								</div>
+							</div>
+
+							<div class="polis_object" id="polis2">
+								<div class="row">
+									<div class="col-sm-5">
+										<img class="polis_img" src="img/polis/kvartira.png" alt="">
+									</div>
+									<div class="col-sm-7">
+										<div class="title">Страховой полис “Всё на месте: Дом”</div>
+										<div class="description">
+											Возместит ущерб в случае пожара, взрыва, стихийного бедствия; кражи, грабежа, разбоя и других противоправных действий.<br>
+											Поможет в случае любых физических травм.
+										</div>
+										<button class="button button_green">АКТИВИРОВАТЬ</button>
+									</div>
+								</div>
+							</div>
+
+							<div class="polis_object" id="polis3">
+								<div class="row">
+									<div class="col-sm-5">
+										<img class="polis_img" src="img/polis/dom.png" alt="">
+									</div>
+									<div class="col-sm-7">
+										<div class="title">Страховой полис “Всё в порядке”</div>
+										<div class="description">
+											Возместит ущерб в случае пожара, взрыва, стихийного бедствия; кражи, грабежа, разбоя и других противоправных действий.<br>
+											Поможет в случае любых физических травм.
+										</div>
+										<button class="button button_green">АКТИВИРОВАТЬ</button>
+									</div>
+								</div>
+							</div>
+
+							<div class="polis_object" id="polis1">
+								<div class="row">
+									<div class="col-sm-5">
+										<img class="polis_img" src="img/polis/dms.png" alt="">
+									</div>
+									<div class="col-sm-7">
+										<div class="title">Страховой полис “Всё на месте”</div>
+										<div class="description">
+											Возместит ущерб в случае пожара, взрыва, стихийного бедствия; кражи, грабежа, разбоя и других противоправных действий.<br>
+											Поможет в случае любых физических травм.
+										</div>
+										<button class="button button_green">АКТИВИРОВАТЬ</button>
+									</div>
 								</div>
 							</div>
 						</div>
-
-						
-						<div class="progress_form_block">
-								
-								<div class="progress_status">
-									<div class="progress_step">
-										<span class="step_round change_step active" data-step="#step1">1</span>
-										<p class="step_text">данные о пункте выдачи</p>
-									</div>
-									<div class="progress_step">
-										<span class="step_round change_step" data-step="#step2">2</span>
-										<p class="step_text">данные застрахованного</p>
-									</div>
-								</div>
-
-								<!-- Форма записи. 1 Этап -->
-								<form class="progress_form active" id="step1">
-
-									<div class="group">
-										<label class="label_block big">
-											<i class="fa fa-map-marker label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Пункт выдачи</span>
-												</div>
-												<div class="input_block select">
-													<select class="white_input" type="text">
-														<option value="">Казань</option>
-														<option value="">Еще что-то</option>
-													</select>
-												</div>
-											</div>
-										</label>
-
-										<label class="label_block big">
-											<i class="fa fa-calendar label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Дата получения</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text" placeholder="ДД.ММ.ГГГГ">
-												</div>
-											</div>
-										</label>
-
-										<label class="label_block big fullheight">
-											<i class="fa fa-clock-o label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Время</span>
-												</div>
-												<div class="input_block radio_btn_block type_5">
-													<input class="hidden" type="radio" name="time" value="09:00" id="time1">
-													<label class="radio_btn" for="time1">09:00</label>
-
-													<input class="hidden" type="radio" name="time" value="10:00" id="time2">
-													<label class="radio_btn" for="time2">10:00</label>
-
-													<input class="hidden" type="radio" name="time" value="12:00" id="time3">
-													<label class="radio_btn" for="time3">12:00</label>
-
-													<input class="hidden" type="radio" name="time" value="14:00" id="time4">
-													<label class="radio_btn" for="time4">14:00</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time5">
-													<label class="radio_btn" for="time5">14:30</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time6">
-													<label class="radio_btn" for="time6">14:30</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time7">
-													<label class="radio_btn" for="time7">14:30</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time8">
-													<label class="radio_btn" for="time8">14:30</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time9">
-													<label class="radio_btn" for="time9">14:30</label>
-
-													<input class="hidden" type="radio" name="time" value="14:30" id="time10">
-													<label class="radio_btn" for="time10">14:30</label>
-												</div>
-											</div>
-										</label>
-									</div>
-									
-									<div class="row">
-										<div class="col-sm-8 no_padding">
-											<div class="button_block">
-												<button class="button button_orange">Продолжить</button>
-											</div>
-										</div>
-									</div>
-									
-
-								</form>
-								<!-- Форма записи конец-->
-
-								<!-- Форма записи. 2 Этап -->
-								<form class="progress_form" id="step2">
-
-									<div class="group">
-										<label class="label_block">
-											<i class="fa fa-user label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Имя</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text">
-												</div>
-											</div>
-										</label>
-										<label class="label_block">
-											<div class="label_content">
-												<div class="label_text">
-													<span>Фамилия</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text">
-												</div>
-											</div>
-										</label>
-										<label class="label_block">
-											<div class="label_content">
-												<div class="label_text">
-													<span>Отчество</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text">
-												</div>
-											</div>
-										</label>
-									</div>
-
-
-									<div class="group big">
-										<label class="label_block">
-											<i class="fa fa-mobile label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Номер телефона</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text" placeholder="+7(777)777-77-77">
-												</div>
-											</div>
-										</label>
-									</div>
-
-									<div class="group big">
-										<label class="label_block">
-											<i class="fa fa-calendar label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Дата рождения</span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="email" placeholder="ДД.ММ.ГГГГ">
-												</div>
-											</div>
-										</label>
-									</div>
-
-									<div class="group">
-										<label class="label_block">
-											<i class="fa fa-address-card label_icon" aria-hidden="true"></i>
-											<div class="label_content">
-												<div class="label_text">
-													<span>Номер полиса <span class="small">(необязательно)</span></span>
-												</div>
-												<div class="input_block">
-													<input class="white_input" type="text">
-												</div>
-											</div>
-										</label>
-									</div>
-
-									
-
-
-									<div class="group big">
-										<p class="text_p">За день до приема на указанный номер телефона будет отправлено SMS сообщение с напоминанием о времени записи к специалисту
-										</p>
-										<p class="text_p">Если SMS не получено за день до приема, то для уточнения записи рекомендуем обратиться в контакт-центр по телефону 8-800-500-03-03</p>
-
-										<div class="label_block">
-											<input class="hidden" type="checkbox" id="obrabotka">
-											<label class="square_checkbox big" for="obrabotka">Я согласен(а) с обработкой моих персональных данных в целях осуществления записи для приема к специалисту страховой компании и признаю эти данные общедоступными </label>
-										</div>
-									</div>
-									
-									<div class="button_block center">
-										<button class="button button_orange">Продолжить</button>
-									</div>
-
-								</form>
-								<!-- Форма записи конец-->
-
-						</div>
-
-							
 					</div>
-
 
 				</div>
 
